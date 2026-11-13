@@ -77,6 +77,16 @@ I build Salesforce solutions end to end: data models, **Apex**, **Lightning Web 
 
 <br>
 
+### 📫 Let's connect
+
+Open to Salesforce roles and freelance projects.
+
+<a href="https://www.linkedin.com/in/prashant-saraswat-59bb6b24b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-151513?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="mailto:saraswatprashant77@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-151513?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+<a href="https://www.salesforce.com/trailblazer/prashantkumar5294"><img alt="Trailhead" src="https://img.shields.io/badge/Trailhead-151513?style=for-the-badge&logo=salesforce&logoColor=00A1E0"></a>
+
+<br>
+
 <p>
-  <sub>Open to Salesforce roles and freelance projects. Let's build something <i>agentic</i>.</sub>
+  <sub>Let's build something <i>agentic</i>.</sub>
 </p>
