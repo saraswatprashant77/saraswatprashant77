@@ -64,8 +64,10 @@ I build Salesforce solutions end to end: data models, **Apex**, **Lightning Web 
 
 ### 🏅 Credentials
 
-- **4× Salesforce Certified**
-- Trailhead **Double Star Ranger** · 104K+ points · 200+ badges · 1 Superbadge
+- **Salesforce Certified Agentforce Specialist**
+- **Salesforce Certified Platform Developer**
+- Trailhead **Expeditioner** · 57K+ points · 91 badges · 11 trails
+- **Agentblazer Champion 2026**
 
 <br>
 

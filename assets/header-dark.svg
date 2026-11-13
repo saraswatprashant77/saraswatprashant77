@@ -37,10 +37,10 @@
   <text x="46" y="310" class="mono" font-size="13" letter-spacing="1.4" fill="#98948b">APEX  /  LWC  /  AGENTFORCE  /  INTEGRATIONS  /  REACT</text>
   <g>
     <line x1="930" y1="146" x2="930" y2="284" stroke="#2e2e2a"/>
-    <text x="958" y="170" class="sans" font-size="30" font-weight="600" letter-spacing="-1" fill="#f0ede6">4<tspan fill="#ff6838">×</tspan></text>
+    <text x="958" y="170" class="sans" font-size="30" font-weight="600" letter-spacing="-1" fill="#f0ede6">2<tspan fill="#ff6838">×</tspan></text>
     <text x="1004" y="168" class="mono" font-size="11" letter-spacing="1.2" fill="#98948b">SALESFORCE CERTIFIED</text>
-    <text x="958" y="224" class="sans" font-size="30" font-weight="600" letter-spacing="-1" fill="#f0ede6">104K<tspan fill="#ff6838">+</tspan></text>
-    <text x="1050" y="222" class="mono" font-size="11" letter-spacing="1.2" fill="#98948b">TRAILHEAD POINTS</text>
+    <text x="958" y="224" class="sans" font-size="30" font-weight="600" letter-spacing="-1" fill="#f0ede6">57K<tspan fill="#ff6838">+</tspan></text>
+    <text x="1034" y="222" class="mono" font-size="11" letter-spacing="1.2" fill="#98948b">TRAILHEAD POINTS</text>
     <text x="958" y="278" class="sans" font-size="30" font-weight="600" letter-spacing="-1" fill="#f0ede6">2</text>
     <text x="982" y="276" class="mono" font-size="11" letter-spacing="1.2" fill="#98948b">AI AGENTS BUILT</text>
   </g>
