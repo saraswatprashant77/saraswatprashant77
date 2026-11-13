@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Prashant Saraswat — Salesforce developer building intelligent CRM" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+  <img alt="Prashant Saraswat — Salesforce developer building intelligent CRM" src="assets/banner-light-v2.svg" width="100%">
 </picture>
 
 <br>
